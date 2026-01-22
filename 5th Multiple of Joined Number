@@ -16,5 +16,5 @@ int main() {
     int number = buildNumber(A, B, C, D);
     
     printf("The number is: %d", number);
-    return 0;
+    
 }
